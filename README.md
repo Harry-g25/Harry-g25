@@ -1,26 +1,29 @@
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Harry%20Gomm&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Business%20Systems%20and%20Operational%20Excellence%20Lead&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,50:2563eb,100:06b6d4&amp;text=Harry%20Gomm&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Business%20Systems%20and%20Operational%20Improvement%20Lead&amp;descAlignY=58&amp;descSize=18" />
 
-# Harry Gomm
+# Hi, I'm Harry 👋
 
 ### Business Systems & Operational Improvement Lead
 
 #### Hobby developer building practical tools for real business problems
 
-<p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=22&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+internal+tools+that+solve+real+business+problems;Turning+spreadsheets+into+systems;Learning+by+building+practical+software" />
+</p>
+
+<p align="center>
   <a href="https://www.linkedin.com/in/harry-gomm-aciphe-30832b233/">
     <img src="https://img.shields.io/badge/LinkedIn-Harry%20Gomm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.harrygomm.co.uk">
     <img src="https://img.shields.io/badge/Portfolio-harrygomm.co.uk-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Harry-g25&style=for-the-badge&color=2563eb" />
-
-</div>
 
 ---
 
@@ -30,10 +33,51 @@ I work in business systems, operational improvement and process development, wit
 
 I am not a full-time professional programmer, but I enjoy building software as a hobby to solve real operational problems. Most of my projects are focused on improving workflows, replacing inefficient spreadsheets, managing data properly and creating better internal tools.
 
+## What I’m Currently Working On
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Building Heat Loss App</h3>
+      <p>A private application for calculating building heat loss and supporting more consistent heating system design.</p>
+      <p><strong>Focus:</strong> Python, SQL, technical calculations, process standardisation</p>
+    </td>
+    <td width="33%">
+      <h3>NCR Tracking App</h3>
+      <p>A private non-conformance reporting system for recording, managing, reviewing and closing out NCRs.</p>
+      <p><strong>Focus:</strong> PostgreSQL, reporting, workflow improvement, quality control</p>
+    </td>
+    <td width="33%">
+      <h3>CTkDataTable</h3>
+      <p>A public Python module for creating cleaner table and data grid interfaces in CustomTkinter.</p>
+      <p><strong>Focus:</strong> Python, CustomTkinter, UI components, reusable modules</p>
+      <p>
+  <a href="https://pypi.org/project/CTkDataTable/">
+    <img src="https://img.shields.io/pypi/v/CTkDataTable?style=flat-square&logo=pypi&logoColor=white&label=PyPI" />
+  </a>
+  <a href="https://pypi.org/project/CTkDataTable/">
+    <img src="https://img.shields.io/pypi/pyversions/CTkDataTable?style=flat-square&logo=python&logoColor=white" />
+  </a>
+</p>
+  </tr>
+</table>
 
 ---
 
-## What I’m Currently Working On
+## How I Think About Software
+
+```mermaid
+flowchart LR
+    A[Operational Problem] --> B[Understand the Process]
+    B --> C[Design the Database]
+    C --> D[Build the Tool]
+    D --> E[Test With Real Users]
+    E --> F[Improve the Workflow]
+```
+
+I like building software around real problems first. For me, the best tools are not just technically interesting — they make work clearer, faster and easier to manage.
+
+---
 
 ### Building Heat Loss Calculation Application
 
