@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Harry%20Gomm&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Business%20Systems%20%26%20Operational%20Excellence%20Lead&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Harry%20Gomm&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Business%20Systems%20and%20Operational%20Excellence%20Lead&descAlignY=58&descSize=18" />
 
 # Harry Gomm
 
