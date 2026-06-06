@@ -79,29 +79,6 @@ I like building software around real problems first. For me, the best tools are 
 
 ---
 
-### Building Heat Loss Calculation Application
-
-An app to calculate a buildings heat loss in accordance with the latest environmental and building science (BS EN 12831-1)
-
-### NCR Tracking & Reporting Application
-
-A non-conformance reporting system designed to replace spreadsheet-based tracking and provide a better way to record, manage, review and close out NCRs.
-
-### CTkDataTable
-
-A public Python module for creating better table/data grid interfaces in CustomTkinter.
-
-<p>
-  <a href="https://pypi.org/project/CTkDataTable/">
-    <img src="https://img.shields.io/pypi/v/CTkDataTable?style=flat-square&logo=pypi&logoColor=white&label=PyPI" />
-  </a>
-  <a href="https://pypi.org/project/CTkDataTable/">
-    <img src="https://img.shields.io/pypi/pyversions/CTkDataTable?style=flat-square&logo=python&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## Tech Stack
 
 <div align="center">
