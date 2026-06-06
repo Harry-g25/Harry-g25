@@ -4,7 +4,7 @@
 
 # Harry Gomm
 
-### Business Systems & Operational Excellence Lead
+### Business Systems & Operational Improvement Lead
 
 #### Hobby developer building practical tools for real business problems
 
@@ -15,9 +15,7 @@
   <a href="https://www.harrygomm.co.uk">
     <img src="https://img.shields.io/badge/Portfolio-harrygomm.co.uk-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://pypi.org/project/CTkDataTable/">
-    <img src="https://img.shields.io/badge/PyPI-CTkDataTable-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
-  </a>
+
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Harry-g25&style=for-the-badge&color=2563eb" />
@@ -85,12 +83,10 @@ A public Python module for creating better table/data grid interfaces in CustomT
 ## Areas I’m Interested In
 
 * Business systems and operational improvement
-* Internal software tools
+* Building software tools
 * Database design and reporting
 * Process automation
-* CustomTkinter desktop applications
-* Renewable energy and construction workflows
-* Replacing inefficient spreadsheets with proper systems
+* Renewable energy and Heating System Design / Engineering
 
 ---
 
@@ -113,21 +109,19 @@ https://pypi.org/project/CTkDataTable/
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harry-g25&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harry-g25&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-g25&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=Harry-g25&theme=tokyonight&hide_border=true" />
 
-<br>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harry-g25&theme=tokyonight&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=Harry-g25&style=for-the-badge&color=2563eb" />
 
 </div>
 
