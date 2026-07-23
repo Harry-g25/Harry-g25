@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,50:2563eb,100:06b6d4&amp;text=Harry%20Gomm&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Business%20Systems%20and%20Operational%20Improvement%20Lead&amp;descAlignY=58&amp;descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,50:2563eb,100:06b6d4&amp;text=Harry%20Gomm&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Business%20Systems%20and%20Operational%20Efficiency%20Lead&amp;descAlignY=58&amp;descSize=18" />
 
 # Hi, I'm Harry 👋
 
